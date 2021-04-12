@@ -1,0 +1,17 @@
+QPushButton, QLineEdit
+{
+    background-color: white;
+    border-width: 3px;
+    border : 2px solid white;
+    border-radius : 10px;
+    border-color: #DCDCDC;
+    padding: 3px;
+}
+
+QPushButton, QLabel, QLineEdit, QGroupBox, QRadioButton, QCheckBox
+{
+    color: gray;
+    font-family: Times New Roman, Courier New;
+    font-weight: bold;
+    font-size: 14px;
+}

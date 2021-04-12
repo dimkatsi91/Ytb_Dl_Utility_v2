@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>about.png</file>
+        <file>about_author.png</file>
+        <file>exit.png</file>
+        <file>logo.png</file>
+        <file>open_folder.png</file>
+        <file>help.png</file>
+        <file>ytb.png</file>
+        <file>audio.png</file>
+        <file>video.png</file>
+        <file>version.png</file>
+        <file>install.png</file>
+        <file>update.png</file>
+        <file>remove.png</file>
+        <file>open_file.png</file>
+    </qresource>
+</RCC>
