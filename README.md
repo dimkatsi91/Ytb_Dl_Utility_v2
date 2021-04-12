@@ -33,7 +33,7 @@ This GUI is supported under next prerequisites :
 
 - Main Window:
 
-![Main Window]()
+![Main Window](https://github.com/dimkatsi91/Ytb_Dl_Utility_v2/blob/main/samples/App_main_window.png)
 
 #### Toolbar Provided Actions/Options:
 
